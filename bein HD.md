@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
+http://mynetworks.info//live/mahmuood55/01221774487m/1647.m3u8
